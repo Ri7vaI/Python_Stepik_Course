@@ -8,4 +8,4 @@ ____
 <br>***Стек используемых инструментов и технологий:***<br>
 :white_check_mark: ЯП Python <br>
 :white_check_mark: IDE VS Code <br>
-:white_check_mark: Учебный методический курс – ["Программирование на Python"](https://stepik.org/course/67/syllabus "Щёлк"), а также статьи по темам на сайте habr.com
+:white_check_mark: Учебный методический курс – ["Программирование на Python"](https://stepik.org/course/67/syllabus "Щёлк"), а также статьи по темам на сайте [habr.com](https://habr.com/ru/all/ "ЩёлкX2")
